@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HaileyKan
+- 👀 I’m interested in zoology, psychology, and art.
+- 🌱 I’m currently learning computer science.
+- 📫 You can reach me on Slack.
